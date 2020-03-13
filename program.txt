@@ -1,0 +1,5 @@
+MVRR 10 , 10
+MVRR 2 , 2
+MVRR 0 , 8
+MVRR 0 , 1
+MVSR 5 , 0
